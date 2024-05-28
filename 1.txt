@@ -1,0 +1,3 @@
+devops it is operation and testing 
+git status 
+git commit
